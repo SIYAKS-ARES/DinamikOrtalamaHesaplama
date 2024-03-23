@@ -1,0 +1,2 @@
+# DinamikOrtalamaHesaplama
+ Flutter App
